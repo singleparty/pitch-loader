@@ -10,6 +10,11 @@
     "pitch",
     "loader"
   ],
+  "homepage": "https://github.com/singleparty/pitch-loader",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/singleparty/pitch-loader.git"
+  },
   "author": "ciiri",
   "license": "ISC",
   "dependencies": {
